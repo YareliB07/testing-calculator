@@ -33,4 +33,9 @@
     cursor: pointer;
     color: green;
 }
+.division-button {
+    cursor: pointer;
+    color: purple;
+    font-size: 16px;
+}
 
