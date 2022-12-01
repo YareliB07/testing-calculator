@@ -48,4 +48,9 @@
     color: yellowgreen;
     font-size: 20px;
 }
+.sqr-button {
+    cursor: pointer;
+    color: darkcyan;
+    font-size: 20px;
+}
 
