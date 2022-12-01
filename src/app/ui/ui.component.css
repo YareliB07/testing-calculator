@@ -43,4 +43,9 @@
     color: red;
     font-size: 25px;
 }
+.exp-button {
+    cursor: pointer;
+    color: yellowgreen;
+    font-size: 20px;
+}
 
