@@ -38,4 +38,9 @@
     color: purple;
     font-size: 16px;
 }
+.multiplication-button {
+    cursor: pointer;
+    color: red;
+    font-size: 25px;
+}
 
