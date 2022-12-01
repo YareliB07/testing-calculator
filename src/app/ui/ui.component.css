@@ -53,4 +53,9 @@
     color: darkcyan;
     font-size: 20px;
 }
+.sqrt-button {
+    cursor: pointer;
+    color: palevioletred;
+    font-size: 20px;
+}
 
